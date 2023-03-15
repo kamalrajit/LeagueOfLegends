@@ -9,17 +9,17 @@ The dataset contains the stats of the players of the game, which include their '
 
 >>> The features are: <<<
 
-Name : Name of the champion
-Class : Fighter, Assassin, Mage, Marksman, Support or Tank
-Role : Top, Mid, ADC, Support or Jungle
-Tier : God, S, A, B, C or D
-Score : Overall score of the champion
-Trend : Trend of the score
-Win % : Win rate of the champion
-Role % : Role rate played with the champion
-Pick % : Pick rate of the champion
-Ban % : Ban rate of the champion
-KDA : (Kill+Death)/Assist ratio of the champion
+Name : Name of the champion ;
+Class : Fighter, Assassin, Mage, Marksman, Support or Tank ;
+Role : Top, Mid, ADC, Support or Jungle ;
+Tier : God, S, A, B, C or D ;
+Score : Overall score of the champion ;
+Trend : Trend of the score ;
+Win % : Win rate of the champion ;
+Role % : Role rate played with the champion ;
+Pick % : Pick rate of the champion ;
+Ban % : Ban rate of the champion  ;
+KDA : (Kill+Death)/Assist ratio of the champion ;
 
 Dataset link: 
 https://www.kaggle.com/datasets/vivovinco/league-of-legends-stats-s13?datasetId=2892473&sortBy=dateRun&tab=profile
